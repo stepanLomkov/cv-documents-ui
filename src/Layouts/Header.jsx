@@ -1,6 +1,6 @@
 const Header = ({ children }) => {
     return (<>
-      CV-DOCUMENTS v1.0.0
+      CV-DOCUMENTS v0.1.0
       {children}
     </>);
   }
